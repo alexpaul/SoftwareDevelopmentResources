@@ -2,7 +2,6 @@
 
 A place to get learning resources for iOS, Web, Android etc for your Software Development needs
 
-
 ## iOS 
 
 |Resource | Summary |
@@ -29,6 +28,11 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Android Studio](https://developer.android.com/studio/) | Download Android Studio |
 | [Android Developer Guides](https://developer.android.com/guide/) | Android Developer Guides |
 
+## Python
+|Resource | Summary |
+|:---:|:----:|
+| [Python Book](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036) | Python Crash Course |
+
 ## Cross - Platform (Resources shared across Platforms) 
 
 |Resource | Summary |
@@ -37,17 +41,48 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Github Hello World Example](https://guides.github.com/activities/hello-world/) | Github Hello World Project |
 | [Skillcrush - Terminal Cheatsheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf) | Get to know your Terminal |
 
+## Technical Coding Platforms
+
+|Resource | Summary |
+|:---:|:----:|
+| [HackerRank](https://www.hackerrank.com/) | Practice coding, prepare for interviews, and get hired. |
+| [LeetCode](https://leetcode.com/) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. |
+
+
+## Editors 
+
+|Resource | Summary |
+|:---:|:----:|
+| [Sublime](http://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose |
+| [VSCode](https://code.visualstudio.com/) | VSCode |
+| [Atom](https://atom.io/) | A hackable text editor for the 21st Century |
+
+
 ## Podcast
 
 |Resource | Summary |
 |:---:|:----:|
 | [Swift by Sundell](https://www.swiftbysundell.com/) | John Sundell iOS Podcast |
 | [Syntax](https://syntax.fm/) | Syntax by Wes Bos |
+| [Under the Radar](https://www.relay.fm/radar) | Building better perspective |
+| [Core Intuition](https://coreint.org/) | Independent developers talking iOS |
+| [Accidental Tech Podcast](http://atp.fm/) | Accidental Tech Podcast |
+
+
+## Conferences 
+
+|Resource | Summary |
+|:---:|:----:|
+| [MongoDB World](https://www.mongodb.com/world18) | MongoDB World |
+| [try! Swift NYC](https://www.tryswift.co/events/2018/nyc/) | try! Swift Conference is an international community gathering about the latest advancements in Swift Development. | 
+| [Google I/O](https://events.google.com/io/) | Google I/O is a developer festival that was held May 8-10 at the Shoreline Amphitheatre in Mountain View, CA |
+
 
 ## Books 
 
 |Resource | Summary |
 |:---:|:----:|
 | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1538471091&sr=8-2&keywords=cracking+the+coding+interview) | 189 Programming Questions and Solutions |
+
 
 
