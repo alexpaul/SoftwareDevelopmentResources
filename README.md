@@ -77,12 +77,18 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [try! Swift NYC](https://www.tryswift.co/events/2018/nyc/) | try! Swift Conference is an international community gathering about the latest advancements in Swift Development. | 
 | [Google I/O](https://events.google.com/io/) | Google I/O is a developer festival that was held May 8-10 at the Shoreline Amphitheatre in Mountain View, CA |
 
+## YouTube 
+
+|Resource | Summary |
+|:---:|:----:|
+| [The Coding Train](https://www.youtube.com/user/shiffman) | In this YouTube channel I publish "creative coding" video tutorials every week. |
+| [Fun Fun Functions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | mpj is creating fun and friendly programming videos. |
+
 
 ## Books 
 
 |Resource | Summary |
 |:---:|:----:|
 | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1538471091&sr=8-2&keywords=cracking+the+coding+interview) | 189 Programming Questions and Solutions |
-
 
 
