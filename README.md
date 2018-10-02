@@ -48,8 +48,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 |:---:|:----:|
 | [HackerRank](https://www.hackerrank.com/) | Practice coding, prepare for interviews, and get hired. |
 | [LeetCode](https://leetcode.com/) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. |
-| [CodeWars](https://www.codewars.com/) | Improve your skills by training with others on real code challenges
-SIGN UP |
+| [CodeWars](https://www.codewars.com/) | Improve your skills by training with others on real code challenges |
 
 
 ## Editors 
