@@ -20,6 +20,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces |
 | [freeCodeCamp - How to learn React](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6) | How to learn React |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Tutorials) | Tutorials and resources for Web Development |
+| [Flexbox Froggy](https://flexboxfroggy.com/)|  |
 
 ## Android
 
@@ -47,6 +48,8 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 |:---:|:----:|
 | [HackerRank](https://www.hackerrank.com/) | Practice coding, prepare for interviews, and get hired. |
 | [LeetCode](https://leetcode.com/) | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. |
+| [CodeWars](https://www.codewars.com/) | Improve your skills by training with others on real code challenges
+SIGN UP |
 
 
 ## Editors 
@@ -67,6 +70,8 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Under the Radar](https://www.relay.fm/radar) | Building better perspective |
 | [Core Intuition](https://coreint.org/) | Independent developers talking iOS |
 | [Accidental Tech Podcast](http://atp.fm/) | Accidental Tech Podcast |
+| [Code Newbie](https://www.codenewbie.org/) | Code Newbie Podcast |
+| [BaseCS](Base CS - https://www.codenewbie.org/basecs) | BaseCS - Computer Science Topics |
 
 
 ## Conferences 
