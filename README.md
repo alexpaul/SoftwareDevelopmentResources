@@ -89,6 +89,15 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [The Coding Train](https://www.youtube.com/user/shiffman) | In this YouTube channel I publish "creative coding" video tutorials every week. |
 | [Fun Fun Functions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) | mpj is creating fun and friendly programming videos. |
 
+## Twitter List of Resourceful Developers
+|Resource | Summary |
+|:---:|:----:|
+| [John Sundell](https://twitter.com/johnsundell) | John Sundell (iOS) - Weekly tips, articles & podcasts about Swift development |
+| [Wes Bos](https://twitter.com/wesbos) | Wes Bos (Web) |
+| [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson (iOS) - Creator of Hacking with Swift |
+| [Orta - Artsy](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects |
+
+
 
 ## Books 
 
