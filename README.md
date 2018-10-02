@@ -1,4 +1,4 @@
-## SoftwareDevelopmentResources
+## Software Development Resources
 
 A place to get learning resources for iOS, Web, Android etc for your Software Development needs
 
@@ -15,24 +15,39 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 
 
 ## Web 
+
+|Resource | Summary |
+|:---:|:----:|
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces |
 | [freeCodeCamp - How to learn React](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6) | How to learn React |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Tutorials) | Tutorials and resources for Web Development |
 
-## Android 
+## Android
+
+|Resource | Summary |
+|:---:|:----:|
 | [Android Studio](https://developer.android.com/studio/) | Download Android Studio |
+| [Android Developer Guides](https://developer.android.com/guide/) | Android Developer Guides |
 
 ## Cross - Platform (Resources shared across Platforms) 
+
+|Resource | Summary |
+|:---:|:----:|
 | [Github](https://github.com/) | GitHub is a code hosting platform for version control and collaboration. |
 | [Github Hello World Example](https://guides.github.com/activities/hello-world/) | Github Hello World Project |
 | [Skillcrush - Terminal Cheatsheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf) | Get to know your Terminal |
 
 ## Podcast
+
+|Resource | Summary |
+|:---:|:----:|
 | [Swift by Sundell](https://www.swiftbysundell.com/) | John Sundell iOS Podcast |
 | [Syntax](https://syntax.fm/) | Syntax by Wes Bos |
 
 ## Books 
 
+|Resource | Summary |
+|:---:|:----:|
 | [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?ie=UTF8&qid=1538471091&sr=8-2&keywords=cracking+the+coding+interview) | 189 Programming Questions and Solutions |
 
 
