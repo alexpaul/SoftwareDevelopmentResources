@@ -20,7 +20,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces |
 | [freeCodeCamp - How to learn React](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6) | How to learn React |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Tutorials) | Tutorials and resources for Web Development |
-| [Flexbox Froggy](https://flexboxfroggy.com/)|  |
+| [Flexbox Froggy](https://flexboxfroggy.com/)| Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
 
 ## Android
 
