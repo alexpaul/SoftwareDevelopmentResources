@@ -34,13 +34,22 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 |:---:|:----:|
 | [Python Book](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036) | Python Crash Course |
 
-## Cross - Platform (Resources shared across Platforms) 
+## Terminal 
+
+|Resource | Summary |
+|:---:|:----:|
+| [Skillcrush - Terminal Cheatsheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf) | Get to know your Terminal |
+| [iTerm](https://www.iterm2.com/) |  iTerm2 brings the terminal into the modern age with features you never knew you always wanted. |
+| [lifehacker](https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) | A Command Line Primer for Beginners |
+
+## Github
 
 |Resource | Summary |
 |:---:|:----:|
 | [Github](https://github.com/) | GitHub is a code hosting platform for version control and collaboration. |
 | [Github Hello World Example](https://guides.github.com/activities/hello-world/) | Github Hello World Project |
-| [Skillcrush - Terminal Cheatsheet](https://skillcrush.com/wp-content/uploads/2016/04/1a-TerminalCommandsCheatsheetMac.pdf) | Get to know your Terminal |
+| [Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/) | Cheat Sheet |
+| [Github](https://guides.github.com/) | Guides |
 
 ## Technical Coding Platforms
 
@@ -97,6 +106,31 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson (iOS) - Creator of Hacking with Swift |
 | [Orta - Artsy](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects |
 
+
+## Online Code Schools 
+
+|Resource | Summary |
+|:---:|:----:|
+| [FreeCodeCamp](https://www.freecodecamp.org/) | Learn to code for free. |
+| [Codecademy](https://www.codecademy.com/) | Codecademy |
+| [TeamTreehouse]( https://teamtreehouse.com) | TeamTreehouse |
+| [Udacity](https://www.udacity.com/lg/brand1?utm_source=google&utm_medium=ads&utm_campaign=747168229&utm_term=39458666392&utm_content=284214925568&device=c&gclid=EAIaIQobChMIrOisw43p3QIVCh-GCh0fYwCpEAAYASAAEgIs1PD_BwE) | Complete portfolio-ready projects, join a global student community, and
+advance your career. |
+| [PluralSight](https://www.pluralsight.com/) | Keep up with technology with expert-led courses, assessments and tools that help you build the skills you need, when you need them. |
+| [Udemy](https://www.udemy.com/) | Study any topic, anytime. Explore thousands of courses starting at $12.99 each. |
+
+
+## Cross-Platform 
+
+|Resource | Summary |
+|:---:|:----:|
+| [Docker for Beginners](https://docker-curriculum.com/) | Learn to build and deploy your distributed applications easily to the cloud with Docker |
+
+## Math 
+
+| [PurpleMath](https://www.purplemath.com/modules/orderops.htm) | The Order of Operations: PEMDAS |
+| [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) | What is modular arithmetic? |
+| [IXL](https://www.ixl.com/?partner=google&campaign=83904305&adGroup=4149271505&gclid=EAIaIQobChMIopn1vqbp3QIVDpcBCh2qzwRlEAEYASAAEgItQPD_BwE) | Basic Mathematics |
 
 
 ## Books 
