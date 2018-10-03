@@ -70,7 +70,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Core Intuition](https://coreint.org/) | Independent developers talking iOS |
 | [Accidental Tech Podcast](http://atp.fm/) | Accidental Tech Podcast |
 | [Code Newbie](https://www.codenewbie.org/) | Code Newbie Podcast |
-| [BaseCS](Base CS - https://www.codenewbie.org/basecs) | BaseCS - Computer Science Topics |
+| [BaseCS](https://www.codenewbie.org/basecs) | BaseCS - Computer Science Topics |
 
 
 ## Conferences 
