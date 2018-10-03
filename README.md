@@ -29,6 +29,9 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [freeCodeCamp - How to learn React](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6) | How to learn React |
 | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Tutorials) | Tutorials and resources for Web Development |
 | [Flexbox Froggy](https://flexboxfroggy.com/)| Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
+| [MDN - Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | Javascript Guide |
+| [AirBnb](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [MDN - How does the Internet work](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) | How does the Internet work |
 
 ## Android
 
