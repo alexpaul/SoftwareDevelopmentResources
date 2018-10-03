@@ -128,6 +128,8 @@ advance your career. |
 
 ## Math 
 
+|Resource | Summary |
+|:---:|:----:|
 | [PurpleMath](https://www.purplemath.com/modules/orderops.htm) | The Order of Operations: PEMDAS |
 | [Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) | What is modular arithmetic? |
 | [IXL](https://www.ixl.com/?partner=google&campaign=83904305&adGroup=4149271505&gclid=EAIaIQobChMIopn1vqbp3QIVDpcBCh2qzwRlEAEYASAAEgItQPD_BwE) | Basic Mathematics |
