@@ -11,6 +11,10 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Apple Developer Documentation](https://developer.apple.com/documentation) | Browse the latest developer documentation including API reference, articles, and sample code.| 
 | [Hacking with Swift](https://www.hackingwithswift.com/sixty) | Hacking with Swift |
 | [iOS Dev Weekly](https://iosdevweekly.com/) | iOS development links every week |
+| [NSHipster](https://nshipster.com/) | A journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly |
+| [objc](https://www.objc.io/)| In-depth guides on iOS and macOS development. |
+| [Ole Begemann](https://oleb.net/) | co-author of Advanced Swift |
+| [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) | Swift Style Guide |
 
 
 ## Web 
