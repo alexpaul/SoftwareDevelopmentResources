@@ -36,7 +36,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 ## Python
 |Resource | Summary |
 |:---:|:----:|
-| [Python Book](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036) | Python Crash Course |
+| [Python](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036) | Python Crash Course: A Hands-On, Project-Based Introduction to Programming |
 
 ## Terminal 
 
