@@ -15,6 +15,10 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [objc](https://www.objc.io/)| In-depth guides on iOS and macOS development. |
 | [Ole Begemann](https://oleb.net/) | co-author of Advanced Swift |
 | [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) | Swift Style Guide |
+| [Xcode Release Notes](https://developer.apple.com/documentation/xcode_release_notes) | Learn about changes to Xcode. |
+| [What's New is iOS](https://developer.apple.com/ios/whats-new/) | What’s New in the iOS SDK |
+| [Xcode Overview](https://developer.apple.com/xcode/) | Xcode Overview |
+| [Apple News](https://developer.apple.com/news/) | Apple Developer News and Updates |
 
 
 ## Web 
