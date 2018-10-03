@@ -6,6 +6,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 
 |Resource | Summary |
 |:---:|:----:|
+| [iOS and Swift Terminology](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/GlossaryDefinitions.html#//apple_ref/doc/uid/TP40015214-CH12-SW1) | Glossary |
 | [Apple Developer Account](https://appleid.apple.com/account#!&page=create) | Create an Apple Developer Account |
 | [Swift Programming Reference](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) | Apple Swift Programming Guide |
 | [Apple Developer Documentation](https://developer.apple.com/documentation) | Browse the latest developer documentation including API reference, articles, and sample code.| 
