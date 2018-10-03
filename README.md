@@ -114,8 +114,7 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Learn to code for free. |
 | [Codecademy](https://www.codecademy.com/) | Codecademy |
 | [TeamTreehouse]( https://teamtreehouse.com) | TeamTreehouse |
-| [Udacity](https://www.udacity.com/lg/brand1?utm_source=google&utm_medium=ads&utm_campaign=747168229&utm_term=39458666392&utm_content=284214925568&device=c&gclid=EAIaIQobChMIrOisw43p3QIVCh-GCh0fYwCpEAAYASAAEgIs1PD_BwE) | Complete portfolio-ready projects, join a global student community, and
-advance your career. |
+| [Udacity](https://www.udacity.com/lg/brand1?utm_source=google&utm_medium=ads&utm_campaign=747168229&utm_term=39458666392&utm_content=284214925568&device=c&gclid=EAIaIQobChMIrOisw43p3QIVCh-GCh0fYwCpEAAYASAAEgIs1PD_BwE) | Complete portfolio-ready projects, join a global student community, and advance your career |
 | [PluralSight](https://www.pluralsight.com/) | Keep up with technology with expert-led courses, assessments and tools that help you build the skills you need, when you need them. |
 | [Udemy](https://www.udemy.com/) | Study any topic, anytime. Explore thousands of courses starting at $12.99 each. |
 
