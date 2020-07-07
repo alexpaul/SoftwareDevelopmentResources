@@ -118,6 +118,8 @@ A place to get learning resources for iOS, Web, Android etc for your Software De
 | [Wes Bos](https://twitter.com/wesbos) | Wes Bos (Web) |
 | [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson (iOS) - Creator of Hacking with Swift |
 | [Orta - Artsy](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects |
+| [Kilo](https://twitter.com/Kilo_Loco) | Educator, Developer, & Content Creator |
+| [Joe Fabisevich](https://twitter.com/mergesort) | Twitter |
 
 
 ## Online Code Schools 
