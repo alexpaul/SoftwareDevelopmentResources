@@ -1,6 +1,6 @@
 ## Software Development Resources
 
-A place to get learning resources for iOS, Web, Android etc for your Software Development needs
+A place to get resources for iOS, Web, Android etc for your Software Development needs
 
 ## Design 
 
