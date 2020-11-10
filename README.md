@@ -11,6 +11,16 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 | [uplabs](https://www.uplabs.com/) | Design Resouces |
 | [UX Collective](https://uxdesign.cc/) | Curated stories on user experience, visual and product design. |
 | [Unsplash](https://unsplash.com/) | Beautiful Free Images & Pictures |
+| [Building a Design System for iOS](https://www.ramshandilya.com/blog/design-system-intro/) | Building a Design System for iOS |
+| [Design tip for developers](https://twitter.com/siddharthkp/status/1262038126794551296) | How do you pick different font sizes that look good together? |
+| [Learn UI Design Blog](https://learnui.design/blog/guide-pairing-fonts.html) | The Step-by-Step Guide for Pairing Fonts |
+| [WWDC 2020 - The details of UI typography](https://developer.apple.com/videos/play/wwdc2020/10175/) | The details of UI typography |
+| [RefactoringUI](https://refactoringui.com/previews/building-your-color-palette/) | Building Your Color Palette |
+| [Build to Adopt](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632) | Intro to The 8-Point Grid System |
+| [DesingBetter.co](https://www.designbetter.co/animation-handbook) | Animation Handbook |
+| [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) | 7 Practical Tips for Cheating at Design |
+| [Happy Hues](https://www.happyhues.co/palettes/16) | Curated colors in context |
+
 
 ## iOS 
 
