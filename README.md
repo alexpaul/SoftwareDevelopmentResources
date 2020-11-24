@@ -80,7 +80,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 |:---:|:----:|
 | [Github](https://github.com/) | GitHub is a code hosting platform for version control and collaboration. |
 | [Github Hello World Example](https://guides.github.com/activities/hello-world/) | Github Hello World Project |
-| [Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/) | Cheat Sheet |
+| [Github](https://training.github.com/downloads/github-git-cheat-sheet/) | Cheat Sheet |
 | [Github](https://guides.github.com/) | Guides |
 
 ## Technical Coding Platforms
