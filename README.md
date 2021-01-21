@@ -144,6 +144,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 | [Ash Furrow](https://twitter.com/ashfurrow) | Artsy | Web, iOS |
 | [Dan Abramov](https://twitter.com/dan_abramov) | Creaator of React, OverReacted.io | Web |
 | [Mads Brodt](https://twitter.com/madsbrodt) | Front-End Engineer & Teacher | Web |
+| [Monica Powell](https://twitter.com/indigitalcolor) | ReactJSLadies, Content Creator | Web |
 
 
 ## Online Code Schools 
