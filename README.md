@@ -142,7 +142,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 | [Kilo](https://twitter.com/Kilo_Loco) | Educator, Developer, & Content Creator | iOS, Amazon Services |
 | [Joe Fabisevich](https://twitter.com/mergesort) | Twitter | iOS |
 | [Ash Furrow](https://twitter.com/ashfurrow) | Artsy | Web, iOS |
-| [Dan Abramov](https://twitter.com/dan_abramov) | Creaator of React | OverReacted.io |
+| [Dan Abramov](https://twitter.com/dan_abramov) | Creaator of React, OverReacted.io | Web |
 
 
 ## Online Code Schools 
