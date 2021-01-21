@@ -135,14 +135,15 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 ## Twitter List of Resourceful Developers
 |Resource | Summary | Stack |
 |:---:|:----:|:-----:|
-| [John Sundell](https://twitter.com/johnsundell) | John Sundell (iOS) - Weekly tips, articles & podcasts about Swift development | iOS |
-| [Wes Bos](https://twitter.com/wesbos) | Wes Bos (Web) | Web |
-| [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson (iOS) - Creator of Hacking with Swift | Web |
+| [John Sundell](https://twitter.com/johnsundell) | John Sundell - Weekly tips, articles & podcasts about Swift development | iOS |
+| [Wes Bos](https://twitter.com/wesbos) | SyntaxFM, Podcast, Content Creator | Web |
+| [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson - Creator of Hacking with Swift | Web |
 | [Orta](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects, TS @ Microsoft | Web, iOS |
 | [Kilo](https://twitter.com/Kilo_Loco) | Educator, Developer, & Content Creator | iOS, Amazon Services |
-| [Joe Fabisevich](https://twitter.com/mergesort) | Twitter | iOS |
+| [Joe Fabisevich](https://twitter.com/mergesort) | Twitter | iOS, Design |
 | [Ash Furrow](https://twitter.com/ashfurrow) | Artsy | Web, iOS |
 | [Dan Abramov](https://twitter.com/dan_abramov) | Creaator of React, OverReacted.io | Web |
+| [Mads Brodt](https://twitter.com/madsbrodt) | Front-End Engineer & Teacher | Web |
 
 
 ## Online Code Schools 
