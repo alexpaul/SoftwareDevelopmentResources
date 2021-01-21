@@ -8,6 +8,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 |:---:|:----:|
 | [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)| The iOS Design Guidelines |
 | [Mobbin](https://mobbin.design/patterns/filter?patterns=Contacts) | Latest Mobile Design Patterns |
+| [Creative Bloq](https://www.creativebloq.com/) | Creative Bloq - Art and Design Inspiration |
 | [uplabs](https://www.uplabs.com/) | Design Resouces |
 | [UX Collective](https://uxdesign.cc/) | Curated stories on user experience, visual and product design. |
 | [Unsplash](https://unsplash.com/) | Beautiful Free Images & Pictures |
