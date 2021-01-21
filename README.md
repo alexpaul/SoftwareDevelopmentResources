@@ -141,8 +141,8 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 | [Orta - Artsy](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects | Web |
 | [Kilo](https://twitter.com/Kilo_Loco) | Educator, Developer, & Content Creator | iOS, Amazon Services |
 | [Joe Fabisevich](https://twitter.com/mergesort) | Twitter | iOS |
-| [Ash Furrow](twitter.com/ashfurrow) | Artsy | Web, iOS |
-| [Dan Abramov](twitter.com/dan_abramov) | Creaator of React | OverReacted.io |
+| [Ash Furrow](https://twitter.com/ashfurrow) | Artsy | Web, iOS |
+| [Dan Abramov](https://twitter.com/dan_abramov) | Creaator of React | OverReacted.io |
 
 
 ## Online Code Schools 
