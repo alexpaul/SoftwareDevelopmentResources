@@ -138,7 +138,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 | [John Sundell](https://twitter.com/johnsundell) | John Sundell (iOS) - Weekly tips, articles & podcasts about Swift development | iOS |
 | [Wes Bos](https://twitter.com/wesbos) | Wes Bos (Web) | Web |
 | [Paul Hudson @twostraws](https://twitter.com/twostraws) | Paul Hudson (iOS) - Creator of Hacking with Swift | Web |
-| [Orta - Artsy](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects | Web |
+| [Orta](https://twitter.com/orta) | Orta Therox - open source full stack dev, Cocoa Pods contributor among other many projects, TS @ Microsoft | Web, iOS |
 | [Kilo](https://twitter.com/Kilo_Loco) | Educator, Developer, & Content Creator | iOS, Amazon Services |
 | [Joe Fabisevich](https://twitter.com/mergesort) | Twitter | iOS |
 | [Ash Furrow](https://twitter.com/ashfurrow) | Artsy | Web, iOS |
