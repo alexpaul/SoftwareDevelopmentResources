@@ -27,6 +27,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 
 |Resource | Summary |
 |:---:|:----:|
+| [HIG - Visual Design - Color](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/) | Covers System Colors, etc. |
 | [iOS and Swift Terminology](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/GlossaryDefinitions.html#//apple_ref/doc/uid/TP40015214-CH12-SW1) | Glossary |
 | [Learn UI Design Blog](https://learnui.design/blog/ios-design-guidelines-templates.html) | The iOS 13 Design Guidelines: An Illustrated Guide |
 | [Apple Developer Account](https://appleid.apple.com/account#!&page=create) | Create an Apple Developer Account |
