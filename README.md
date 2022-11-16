@@ -6,6 +6,7 @@ A place to get resources for iOS, Web, Android etc for your Software Development
 
 |Resource | Summary |
 |:---:|:----:|
+| [iOS 16 Design Guidelines](https://www.learnui.design/blog/ios-design-guidelines-templates.html) | iOS 16 Design Guidelines |  
 | [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)| The iOS Design Guidelines |
 | [FlatColorUI](http://flatcolorsui.com/) | Get your next color palette |
 | [How to keep your Style code clean in Swift](https://stablekernel.com/article/how-to-keep-your-style-code-clean-in-swift/) | Clean Style Code in Swift |
